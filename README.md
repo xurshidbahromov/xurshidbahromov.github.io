@@ -90,9 +90,9 @@ Enhance your portfolio even further with these ideas:
 
 Let's connect! Feel free to reach out via the contact form on my portfolio or through:
 
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [@YourHandle]
+- **Email:** xurshidbahromov@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/xurshid-bahromov/
+- **Twitter:** https://twitter.com/xurshidbahromov
 
 ---
 
