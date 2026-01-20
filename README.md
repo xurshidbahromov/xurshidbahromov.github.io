@@ -35,7 +35,6 @@ Welcome to my personal portfolio! This is a modern, high-performance web applica
 - [x] **Dark/Light Mode:** Seamless theme switching with persistent state.
 - [x] **Framer Motion Animations:** Smooth transitions and hover effects.
 - [x] **Interactive Custom Cursor:** Smooth following cursor with hover states.
-- [x] **Scroll Progress Bar:** Visual indicator of reading progress.
 - [x] **Typewriter Effect:** Dynamic text animation in the Hero section.
 - [x] **Contact Form:** Integrated with Formspree and confetti celebration on success.
 - [x] **Dynamic Projects Section:** Interactive project cards with tech tags.
