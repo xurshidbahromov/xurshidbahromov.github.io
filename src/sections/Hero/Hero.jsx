@@ -44,7 +44,7 @@ function Hero() {
 
         <div className="flex items-center gap-6 mt-2">
           {[
-            { href: "https://twitter.com/", icon: twitterIcon, alt: "Twitter" },
+            { href: "https://twitter.com/XBahromov", icon: twitterIcon, alt: "Twitter" },
             { href: "https://github.com/xurshidbek-bahromov", icon: githubIcon, alt: "GitHub" },
             { href: "https://www.linkedin.com/in/xurshid-bahromov/", icon: linkedinIcon, alt: "LinkedIn" }
           ].map((social, index) => (
