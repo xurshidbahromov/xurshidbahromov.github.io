@@ -9,6 +9,8 @@ import CV from '../../assets/cv.pdf';
 import { useTheme } from '../../common/ThemeContext';
 import { motion } from 'framer-motion';
 
+import Typewriter from '../../common/Typewriter';
+
 function Hero() {
   const { theme } = useTheme();
 
@@ -32,8 +34,8 @@ function Hero() {
           Bahromov
         </h1>
 
-        <h2 className="font-mono text-xl text-blue-600 dark:text-blue-400 uppercase tracking-[0.2em]">
-          Software Developer | AI ML Engineer
+        <h2 className="font-mono text-xl text-blue-600 dark:text-blue-400 uppercase tracking-[0.2em] min-h-[1.5em]">
+          <Typewriter text="Software Developer | AI ML Engineer" delay={150} />
         </h2>
 
         <p className={`text-lg leading-relaxed font-light ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}>

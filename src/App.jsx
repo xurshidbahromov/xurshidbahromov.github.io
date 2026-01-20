@@ -5,10 +5,14 @@ import Projects from './sections/Projects/Projects';
 import Skills from './sections/Skills/Skills';
 import Navbar from './sections/Navbar/Navbar';
 import Background from './common/Background';
+import CustomCursor from './common/CustomCursor';
+import ScrollProgress from './common/ScrollProgress';
 
 function App() {
   return (
     <>
+      <CustomCursor />
+      <ScrollProgress />
       <Background />
       <div className="relative z-0 flex flex-col min-h-screen">
         <Navbar />
