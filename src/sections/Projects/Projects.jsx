@@ -1,4 +1,4 @@
-import viberr from '../../assets/viberr.png';
+import aether from '../../assets/aether.png';
 import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
@@ -8,25 +8,25 @@ import { motion } from 'framer-motion';
 function Projects() {
   const projects = [
     {
-      src: viberr,
-      github: "https://github.com/Ade-mir/company-landing-page-2",
-      demo: "https://github.com/Ade-mir/company-landing-page-2",
-      h3: "Viberr",
-      p: "Streaming App",
-      technologies: ["React", "Node.js", "MongoDB"]
+      src: aether,
+      github: "https://github.com/xurshidbahromov/ai-task-manager",
+      demo: "https://aether-ai-task-manager.vercel.app/",
+      h3: "Aether",
+      p: "Ai Task Manager",
+      technologies: ["React", "Vite", "Python", "FastAPI", "PostgreSQL"]
     },
     {
       src: freshBurger,
-      github: "https://github.com/Ade-mir/company-landing-page-2",
-      demo: "https://github.com/Ade-mir/company-landing-page-2",
+      github: "https://github.com/xurshidbahromov/company-landing-page-2",
+      demo: "https://github.com/xurshidbahromov/company-landing-page-2",
       h3: "Fresh Burger",
       p: "Hamburger Restaurant",
       technologies: ["HTML", "CSS", "JavaScript"]
     },
     {
       src: hipsster,
-      github: "https://github.com/Ade-mir/company-landing-page-2",
-      demo: "https://github.com/Ade-mir/company-landing-page-2",
+      github: "https://github.com/xurshidbahromov/company-landing-page-2",
+      demo: "https://github.com/xurshidbahromov/company-landing-page-2",
       h3: "Hipsster",
       p: "Glasses Shop",
       technologies: ["React", "Tailwind", "Firebase"]
