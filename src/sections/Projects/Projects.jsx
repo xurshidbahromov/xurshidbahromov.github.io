@@ -10,7 +10,7 @@ function Projects() {
     {
       src: aether,
       github: "https://github.com/xurshidbahromov/ai-task-manager",
-      demo: "https://aether-ai-task-manager.vercel.app/",
+      demo: "https://ai-task-manager-aether.vercel.app/",
       h3: "Aether",
       p: "Ai Task Manager",
       technologies: ["React", "Vite", "Python", "FastAPI", "PostgreSQL"]
