@@ -1,5 +1,5 @@
 import aether from '../../assets/aether.png';
-import resumind from '../../assets/resumind.png';
+import resumind from '../../assets/resumind_banner.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
