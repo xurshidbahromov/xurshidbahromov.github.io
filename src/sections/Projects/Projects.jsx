@@ -26,15 +26,15 @@ function Projects() {
     {
       src: hipsster,
       github: "https://github.com/xurshidbahromov/company-landing-page-2",
-      demo: "https://github.com/xurshidbahromov/company-landing-page-2",
+      demo: "https://hipsster-glasses-shop.vercel.app/",
       h3: "Hipsster",
       p: "Glasses Shop",
       technologies: ["React", "Tailwind", "Firebase"]
     },
     {
       src: fitLift,
-      github: "https://github.com/Ade-mir/company-landing-page-2",
-      demo: "https://github.com/Ade-mir/company-landing-page-2",
+      github: "https://github.com/xurshidbahromov/fitlift",
+      demo: "https://fitlift.vercel.app/",
       h3: "FitLift",
       p: "Fitness App",
       technologies: ["React Native", "Express", "PostgreSQL"]
