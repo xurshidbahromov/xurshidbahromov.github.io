@@ -1,5 +1,5 @@
 import aether from '../../assets/aether.png';
-import freshBurger from '../../assets/fresh-burger.png';
+import resumind from '../../assets/resumind.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
@@ -16,12 +16,12 @@ function Projects() {
       technologies: ["React", "Vite", "Python", "FastAPI", "PostgreSQL"]
     },
     {
-      src: freshBurger,
-      github: "https://github.com/xurshidbahromov/company-landing-page-2",
-      demo: "https://github.com/xurshidbahromov/company-landing-page-2",
-      h3: "Fresh Burger",
-      p: "Hamburger Restaurant",
-      technologies: ["HTML", "CSS", "JavaScript"]
+      src: resumind,
+      github: "https://github.com/xurshidbahromov/resumind-ai-resume-analyzer",
+      demo: "https://resumind-ai-resume-analyzer-eight.vercel.app/",
+      h3: "Resumind",
+      p: "AI Resume Analyzer",
+      technologies: ["React", "Vite", "Python", "FastAPI", "LicensePlateRecognition", "OpenCV"]
     },
     {
       src: hipsster,
